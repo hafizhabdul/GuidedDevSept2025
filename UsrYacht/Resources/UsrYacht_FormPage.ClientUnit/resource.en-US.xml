@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Yacht form page" />
+			<Item Name="LocalizableStrings.addRecord_08w9e4m_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_c6ubrug_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_fyy4mqt_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_kyesbbd_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_lsyggvm_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_lw76wtz_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_zttelcf_caption.Value" Value="Add new" />
+		</Items>
+	</Group>
+</Resources>
