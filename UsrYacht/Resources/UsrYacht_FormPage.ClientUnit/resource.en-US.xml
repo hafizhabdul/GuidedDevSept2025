@@ -4,6 +4,8 @@
 		<Items>
 			<Item Name="Caption" Value="Yacht form page" />
 			<Item Name="LocalizableStrings.addRecord_08w9e4m_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_2yjg3q8_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_9tpf2d3_caption.Value" Value="Add new" />
 			<Item Name="LocalizableStrings.addRecord_c6ubrug_caption.Value" Value="Add new" />
 			<Item Name="LocalizableStrings.addRecord_fyy4mqt_caption.Value" Value="Add new" />
 			<Item Name="LocalizableStrings.addRecord_kyesbbd_caption.Value" Value="Add new" />
